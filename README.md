@@ -5,6 +5,7 @@
 - html,
 - css,
 - javascript,
+- bootstrap,
 - flex boxes,
 - grid,
 - BEM naming
